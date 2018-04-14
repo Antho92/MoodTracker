@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Images-->
-    <dimen name="size_image_height">200dip</dimen>
+    <dimen name="size_image_height">50dip</dimen>
     <dimen name="size_image_width">@dimen/size_image_height</dimen>
+
+    <!-- ImageButton Note Button-->
+    <dimen name="note_button_height">50dip</dimen>
+    <dimen name="note_button_width">@dimen/note_button_height</dimen>
+    <dimen name="layout_margin_bottom_noteBtn">18dip</dimen>
+    <dimen name="layout_margin_left">5dip</dimen>
+
+    <!-- ImageButton History Button-->
+    <dimen name="history_button_height">50dip</dimen>
+    <dimen name="history_button_width">@dimen/history_button_height</dimen>
+    <dimen name="layout_margin_bottom">18dip</dimen>
+    <dimen name="layout_margin_right">5dip</dimen>
+
 </resources>
