@@ -6,6 +6,12 @@
     tools:context=".SadSmileyFragment">
 
     <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_width="@dimen/size_image_width"
+        android:layout_height="@dimen/size_image_width"
+        android:src="@drawable/ic_smiley_sad"/>
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
